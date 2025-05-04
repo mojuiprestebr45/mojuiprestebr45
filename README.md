@@ -16,5 +16,5 @@
 ###### <p align="center">*This is official repository maintained by Mojui Prestebr*
 ## 💬 **Contact Us on Telegram**
 **Telegram**:  
-[@usdtflashtool](https://t.me/usdtflashtool)
+[Telegram](https://t.me/joflashtool)   
 
